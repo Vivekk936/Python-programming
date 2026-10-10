@@ -1,0 +1,8 @@
+s=input("Enter a string")
+s1=s.strip()
+s2=s1.lstrip()
+s3=s2.rstrip()
+print(s)
+print(s1)
+print(s2)
+print(s3)

@@ -1,0 +1,7 @@
+s=input("Enter a string")
+s2=input("Enter another string")
+print(f"Number of{s2} is {s.count(s2)} ")
+print(s.startswith('I'))
+print(s.endswith('n'))
+print(s.isalnum())
+print(s.isalpha())

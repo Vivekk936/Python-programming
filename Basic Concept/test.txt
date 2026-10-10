@@ -1,0 +1,4 @@
+robin=robin98@gmail.com,khush=khush231@gmail.com,nadn=na45@gmail.com,luck=luck23@edu.wq
+invalid emails=_@gmail.com
+788@gmail.com
+45asd@gmail.com
