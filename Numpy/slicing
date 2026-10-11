@@ -1,0 +1,7 @@
+import numpy as np
+matrix_1=np.round(np.random.random((5,5))*100).astype('int32')
+print(matrix_1)
+print(matrix_1[:,3])
+print(np.mean(matrix_1[2,:]))
+print(matrix_1[2:4,3:5])
+
